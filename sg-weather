@@ -1,0 +1,30 @@
+{
+  "api_info": {
+    "status": "healthy"
+  },
+  "area_metadata": [
+    {
+      "name": "string",
+      "label_location": {
+        "longitude": 0,
+        "latitude": 0
+      }
+    }
+  ],
+  "items": [
+    {
+      "update_timestamp": "2019-07-18T04:17:08.645Z",
+      "timestamp": "2019-07-18T04:17:08.645Z",
+      "valid_period": {
+        "start": "2019-07-18T04:17:08.645Z",
+        "end": "2019-07-18T04:17:08.645Z"
+      },
+      "forecasts": [
+        {
+          "area": "string",
+          "forecast": "string"
+        }
+      ]
+    }
+  ]
+}
